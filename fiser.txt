@@ -7,4 +7,4 @@ vgs
 f
 vgds
 fbfd
- 
+modificari de la croco96 
